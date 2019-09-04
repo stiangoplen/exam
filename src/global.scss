@@ -24,3 +24,15 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+.large-modal {
+  --width: 1000px;
+  --height: 700px;
+  --border-radius: 15px;
+}
+
+.small-modal {
+  --width: 400px;
+  --height: 400px;
+  --border-radius: 15px;
+}

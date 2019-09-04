@@ -1,0 +1,20 @@
+<ion-content padding>
+  <div class="container">
+    <div class="header">Pasient informasjon</div>
+    <form class="item">
+      <ion-item>
+        <ion-label>Fornavn</ion-label>
+        <ion-input type="text" [(ngModel)]="firstname" name="firstname" required></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label>Etternavn</ion-label>
+        <ion-input [(ngModel)]="lastname" name="lastname" required></ion-input>
+      </ion-item>
+    </form>
+  
+    <div text-center padding>
+      <ion-button (click)=onCancel()>Avbryt</ion-button>
+      <ion-button [disabled]="!firstname || !lastname" (click)=onSave()>Lagre</ion-button>
+    </div>
+  </div>
+</ion-content>

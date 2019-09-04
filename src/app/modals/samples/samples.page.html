@@ -1,0 +1,32 @@
+<ion-content padding>
+  <ion-grid>
+    <ion-row>
+      <ion-col size="6">
+        <div class="header">Tilgjengelige analyser</div>
+
+        <ion-searchbar margin [(ngModel)]="search" placeholder="Søk"></ion-searchbar>
+        <ion-list class="inner-container">
+          <ion-item *ngFor="let sample of samples | filterBy: ['navn', 'label']: search" (click)="addSample(sample.id)">
+            <div>
+              {{ sample.navn }}
+            </div>
+          </ion-item>
+        </ion-list>
+      </ion-col>
+      <ion-col size="6">
+        <div class="header right">Valgte analyser</div>
+        <ion-list class="inner-container">
+          <div class="warning" *ngIf="!selectedSamples.length">Ingen analyser valgt</div>
+          <ion-item *ngFor="let sample of selectedSamples" (click)="removeSample(sample.id)">
+            <div>{{ sample.navn }}</div>
+          </ion-item>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+  <div text-center class="button-group">
+    <ion-button (click)="onCancel()">Avbryt</ion-button>
+    <ion-button (click)="onSave()">Lagre</ion-button>
+  </div>
+</ion-content>

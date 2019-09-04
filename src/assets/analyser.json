@@ -1,0 +1,3197 @@
+[
+  {
+    "id": "001",
+    "navn": "Hemoglobin",
+    "label": "hb;hgb",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "002",
+    "navn": "Erytrocytter",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "004",
+    "navn": "Leukocytter",
+    "label": "hvite",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "009",
+    "navn": "Leukocytter m\/diff",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 50
+  },
+  {
+    "id": "010",
+    "navn": "Retikulocytter",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 50
+  },
+  {
+    "id": "011",
+    "navn": "Trombocytter",
+    "label": "trc",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 22
+  },
+  {
+    "id": "012",
+    "navn": "Hematokrit",
+    "label": "hct",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "013",
+    "navn": "MCV\/MCH",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 30
+  },
+  {
+    "id": "018",
+    "navn": "Selen",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Sporelementer",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "020",
+    "navn": "Kalium",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "021",
+    "navn": "Natrium",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "022",
+    "navn": "Klorid",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "023",
+    "navn": "Litium",
+    "label": "li;lithionit;litarex",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Medikamenter",
+    "beskrivelse": "",
+    "pris": 160
+  },
+  {
+    "id": "024",
+    "navn": "Fosfat, uorg.",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "025",
+    "navn": "Kalsium",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "026",
+    "navn": "Magnesium",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "027",
+    "navn": "Bly",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Tungmetaller",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "028",
+    "navn": "Sink",
+    "label": "zn",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Sporelementer",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "029",
+    "navn": "Kvikks\u00f8lv",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Tungmetaller",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "030",
+    "navn": "Fosf.alk.(ALP)",
+    "label": "alp;alkaliske",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "033",
+    "navn": "ASAT",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "034",
+    "navn": "ALAT",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "035",
+    "navn": "LD",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "036",
+    "navn": "CK",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "038",
+    "navn": "Amylase total",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "039",
+    "navn": "Digoksin",
+    "label": "digoxin;lanoxin",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Medikamenter",
+    "beskrivelse": "",
+    "pris": 95
+  },
+  {
+    "id": "040",
+    "navn": "Bilirubin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "041",
+    "navn": "Glukose, fastende",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "042",
+    "navn": "Glukosebelastning",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Belastninger",
+    "beskrivelse": "",
+    "pris": 150
+  },
+  {
+    "id": "043",
+    "navn": "Jern\/TIBC",
+    "label": "transferrinmetning;jernmetning",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 41
+  },
+  {
+    "id": "047",
+    "navn": "Kolesterol",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "048",
+    "navn": "Kreatinin\/Kreatinin eGFR",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "049",
+    "navn": "Protein total",
+    "label": "totalprotein",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "050",
+    "navn": "Elektroforese",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 261
+  },
+  {
+    "id": "054",
+    "navn": "Triglyserider, fastende",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "058",
+    "navn": "Urinstoff",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "059",
+    "navn": "Urinsyre",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "060",
+    "navn": "Vitamin B12",
+    "label": "kobalamin",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 30
+  },
+  {
+    "id": "065",
+    "navn": "Imm.globuliner",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 90
+  },
+  {
+    "id": "069",
+    "navn": "Albumin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "070",
+    "navn": "Urin stix",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 50
+  },
+  {
+    "id": "073",
+    "navn": "ANA-screen",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 181
+  },
+  {
+    "id": "075",
+    "navn": "Blod i feces",
+    "label": "f\u00e6ces",
+    "gruppe": "Ford\u00f8yelsessykdommer",
+    "undergruppe": "Ford\u00f8yelsessykdommer",
+    "beskrivelse": "",
+    "pris": 312
+  },
+  {
+    "id": "080",
+    "navn": "EKG-taking",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre unders\u00f8kelser",
+    "beskrivelse": "",
+    "pris": 210
+  },
+  {
+    "id": "081",
+    "navn": "EKG-tyding",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre unders\u00f8kelser",
+    "beskrivelse": "",
+    "pris": 1
+  },
+  {
+    "id": "083",
+    "navn": "Anti-TPO",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 50
+  },
+  {
+    "id": "086",
+    "navn": "Folat i serum",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 40
+  },
+  {
+    "id": "087",
+    "navn": "Reum.faktor",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 25
+  },
+  {
+    "id": "088",
+    "navn": "CRP",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 30
+  },
+  {
+    "id": "091",
+    "navn": "Mononukleose (EBV)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 348
+  },
+  {
+    "id": "093",
+    "navn": "Alfa 1-antitrypsin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 30
+  },
+  {
+    "id": "097",
+    "navn": "Fenobarbital (Fenemal)",
+    "label": "fenemal",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "098",
+    "navn": "Fenytoin (Epinat)",
+    "label": "epinat",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "100",
+    "navn": "HDL-kolesterol",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "101",
+    "navn": "Valproat (Deprakine, Orfiril)",
+    "label": "natrium-valproat;deprakine;orfiril",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "105",
+    "navn": "Haptoglobin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 30
+  },
+  {
+    "id": "107",
+    "navn": "Gamma GT",
+    "label": "gt",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "112",
+    "navn": "Aluminium",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Sporelementer",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "114",
+    "navn": "Kobber",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Sporelementer",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "115",
+    "navn": "Kadmium",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Tungmetaller",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "118",
+    "navn": "TSH",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "119",
+    "navn": "Ferritin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "130",
+    "navn": "Kvikks\u00f8lv i urin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "131",
+    "navn": "Progesteron",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "132",
+    "navn": "\u00d8stradiol",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "142",
+    "navn": "Homocystein",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 95
+  },
+  {
+    "id": "143",
+    "navn": "Jern 2,etter belastning",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Belastninger",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "146",
+    "navn": "PTH",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 35
+  },
+  {
+    "id": "149",
+    "navn": "Protein total i urin",
+    "label": "totalprotein",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "152",
+    "navn": "Elektroforese i urin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 879
+  },
+  {
+    "id": "157",
+    "navn": "C-peptid (fastende)",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 60
+  },
+  {
+    "id": "163",
+    "navn": "Total IgE",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Andre analyser",
+    "beskrivelse": "",
+    "pris": 75
+  },
+  {
+    "id": "164",
+    "navn": "Hemokromatose genotyping (C282Y og H63D",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "P\u00e5 spesielle indikasjoner",
+    "beskrivelse": "",
+    "pris": 1152
+  },
+  {
+    "id": "166",
+    "navn": "INR",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hemostase",
+    "beskrivelse": "",
+    "pris": 48
+  },
+  {
+    "id": "180",
+    "navn": "Lipase",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "181",
+    "navn": "Amylase pankreas",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "186",
+    "navn": "Fritt T3",
+    "label": "t3;ft3",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "187",
+    "navn": "Anti-CCP",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 95
+  },
+  {
+    "id": "189",
+    "navn": "Fritt T4",
+    "label": "t4;ft4",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "190",
+    "navn": "Prolaktin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 39
+  },
+  {
+    "id": "203",
+    "navn": "Marevan-panel",
+    "label": "genetisk analyse av vkorc1;cyp2c9;marevan-panel;marevanpanel",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Farmakogenetiske analyser, EDTA-blod",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "211",
+    "navn": "Chlam.trach, \u00f8ye",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "215",
+    "navn": "Kadmium i urin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "229",
+    "navn": "Neiss.gonorr(GC), \u00f8ye",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 329
+  },
+  {
+    "id": "232",
+    "navn": "PSA",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 35
+  },
+  {
+    "id": "245",
+    "navn": "Chlam.trach, hals",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "246",
+    "navn": "Chlam.trach, s\u00e6d",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "253",
+    "navn": "Laktoseint,gentest",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "272",
+    "navn": "ANCA",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 210
+  },
+  {
+    "id": "277",
+    "navn": "Influensa A\/B",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 679
+  },
+  {
+    "id": "281",
+    "navn": "Herpes simplex 1\/2",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 823
+  },
+  {
+    "id": "292",
+    "navn": "Luftveisbakterier",
+    "label": "pertusiss;kikhoste",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "Mycoplasma pneumoniae, Chlamydia pneumoniae, Bordetella pertussis",
+    "pris": 1152
+  },
+  {
+    "id": "296",
+    "navn": "Mycopl.genit, underliv",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 375
+  },
+  {
+    "id": "298",
+    "navn": "Neiss.gonorr(GC), underliv",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 329
+  },
+  {
+    "id": "300",
+    "navn": "LDL-kolesterol",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "301",
+    "navn": "Kortisol kl 08",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "302",
+    "navn": "Kortisol kl 19",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "310",
+    "navn": "Varicella zoster, IgG",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 450
+  },
+  {
+    "id": "320",
+    "navn": "Kalium i urin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "321",
+    "navn": "Natrium i urin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "328",
+    "navn": "Sink i urin",
+    "label": "zn",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "329",
+    "navn": "Mycopl.genit, rektum",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 375
+  },
+  {
+    "id": "341",
+    "navn": "Glukose, ikke fastende",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "342",
+    "navn": "MMA (metylmalonsyre)",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 163
+  },
+  {
+    "id": "346",
+    "navn": "ApoB\/ApoA-1 ratio",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 60
+  },
+  {
+    "id": "347",
+    "navn": "Chlam.trach, underliv",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "359",
+    "navn": "Rubella, IgG",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 94
+  },
+  {
+    "id": "360",
+    "navn": "Albumin (AKR)",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 71
+  },
+  {
+    "id": "361",
+    "navn": "Toxoplasma, IgM\/IgG",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 260
+  },
+  {
+    "id": "363",
+    "navn": "CMV, IgM\/IgG",
+    "label": "cytomegalovirus",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 291
+  },
+  {
+    "id": "368",
+    "navn": "Bupropion (Wellbutrin, Zyban)",
+    "label": "wellbutrin;zyban",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "372",
+    "navn": "Nortriptylin (Noritren)",
+    "label": "noritren",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "373",
+    "navn": "Amitriptylin (Sarotex, Tryptizol)",
+    "label": "sarotex;tryptizol",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "374",
+    "navn": "Citalopram (Cipramil, Desital)",
+    "label": "cipramil;desital",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "376",
+    "navn": "Escitalopram (Cipralex)",
+    "label": "cipralex",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "377",
+    "navn": "Duloksetin (Cymbalta)",
+    "label": "cymbalta",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "378",
+    "navn": "Fluoksetin (Fontex)",
+    "label": "fontex",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "379",
+    "navn": "Fluvoksamin (Fevarin)",
+    "label": "fevarin",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "380",
+    "navn": "Mianserin (Tolvon)",
+    "label": "tolvon",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "381",
+    "navn": "Mirtazapin (Remeron)",
+    "label": "remeron",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "382",
+    "navn": "Paroksetin (Seroxat)",
+    "label": "seroxat",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "383",
+    "navn": "Sertralin (Zoloft)",
+    "label": "zoloft",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "384",
+    "navn": "Venlafaksin (Efexor)",
+    "label": "efexor",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "385",
+    "navn": "Trimipramin (Surmontil)",
+    "label": "surmontil",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "386",
+    "navn": "Gabapentin (Neurontin)",
+    "label": "neurontin",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "387",
+    "navn": "Klonazepam (Rivotril)",
+    "label": "rivotril",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "388",
+    "navn": "Okskarbazepin (Trileptal)",
+    "label": "mhd;monohydroksykarbazepin;trileptal",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "389",
+    "navn": "Lamotrigin (Lamictal)",
+    "label": "lamictal",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "390",
+    "navn": "Topiramat (Topimax)",
+    "label": "topimax",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "391",
+    "navn": "Klomipramin (Anafranil)",
+    "label": "anafranil",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "392",
+    "navn": "Pregabalin (Lyrica)",
+    "label": "lyrica",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "394",
+    "navn": "Kodein (Paralgin\/Pinex forte)",
+    "label": "paralgin forte;pinex forte",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Andre legemidler",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "395",
+    "navn": "Tramadol (Nobligan, Tramagetic)",
+    "label": "nobligan;tramagetic",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Andre legemidler",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "396",
+    "navn": "Atomoksetin (Strattera)",
+    "label": "strattera",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Andre legemidler",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "397",
+    "navn": "Levetiracetam (Keppra)",
+    "label": "keppra",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "399",
+    "navn": "Ritalinsyre (Concerta, Equasym, Ritalin)",
+    "label": "ritalin;concerta;equasym",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Andre legemidler",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "401",
+    "navn": "Alprazolam (Xanor)",
+    "label": "xanor",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Benzodiazepiner",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "402",
+    "navn": "Diazepam (Stesolid, Valium, Vival)",
+    "label": "stesolid;valium;vival",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Benzodiazepiner",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "403",
+    "navn": "Flunitrazepam (Flunipam, Rohypnol)",
+    "label": "flunipam;rohypnol",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Benzodiazepiner",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "404",
+    "navn": "Nitrazepam (Apodorm, Mogadon)",
+    "label": "apodorm;mogadon",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Benzodiazepiner",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "405",
+    "navn": "Oksazepam (Alopam, Sobril)",
+    "label": "sobril;alopam",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Benzodiazepiner",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "406",
+    "navn": "Zolpidem (Stilnoct)",
+    "label": "stilnoct",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Benzodiazepiner",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "407",
+    "navn": "Zopiklon (Imovane)",
+    "label": "zopitin;zopiklon;imovane",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Benzodiazepiner",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "414",
+    "navn": "Kobber i urin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 200
+  },
+  {
+    "id": "429",
+    "navn": "Aripiprazol (Abilify)",
+    "label": "abilify",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "431",
+    "navn": "Amisulprid (Solian)",
+    "label": "solian",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "432",
+    "navn": "Flupentiksol (Fluanxol)",
+    "label": "fluanxol",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "433",
+    "navn": "Haloperidol (Haldol)",
+    "label": "haldol",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "435",
+    "navn": "Klorprotiksen (Truxal)",
+    "label": "truxal",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "436",
+    "navn": "Klozapin (Leponex)",
+    "label": "leponex",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "437",
+    "navn": "Levomepromazin (Nozinan)",
+    "label": "nozinan",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "438",
+    "navn": "Olanzapin (Zyprexa)",
+    "label": "zyprexa",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "439",
+    "navn": "Perfenazin (Trilafon)",
+    "label": "trilafon",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "440",
+    "navn": "Kvetiapin (Seroquel)",
+    "label": "quetiapin;seroquel",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "441",
+    "navn": "Risperidon (Risperdal)",
+    "label": "risperdal",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "443",
+    "navn": "Sertindol (Serdolect)",
+    "label": "serdolect",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "444",
+    "navn": "Ziprasidon (Zeldox)",
+    "label": "zeldox",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "445",
+    "navn": "Zuklopentiksol (Cisordinol)",
+    "label": "cisordinol",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "451",
+    "navn": "Lp(a)",
+    "label": "lipoprotein",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 32
+  },
+  {
+    "id": "453",
+    "navn": "MikroCRP",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 30
+  },
+  {
+    "id": "470",
+    "navn": "Diagnostikk av C\u00f8liaki-pasienter",
+    "label": "",
+    "gruppe": "Ford\u00f8yelsessykdommer",
+    "undergruppe": "Ford\u00f8yelsessykdommer",
+    "beskrivelse": "",
+    "pris": 204
+  },
+  {
+    "id": "471",
+    "navn": "Oppf\u00f8lging av C\u00f8liaki-pasienter",
+    "label": "",
+    "gruppe": "Ford\u00f8yelsessykdommer",
+    "undergruppe": "Ford\u00f8yelsessykdommer",
+    "beskrivelse": "",
+    "pris": 204
+  },
+  {
+    "id": "472",
+    "navn": "Oppf. av C\u00f8liaki-pasienter med IgA-mange",
+    "label": "",
+    "gruppe": "Ford\u00f8yelsessykdommer",
+    "undergruppe": "Ford\u00f8yelsessykdommer",
+    "beskrivelse": "",
+    "pris": 204
+  },
+  {
+    "id": "484",
+    "navn": "Kalprotektin i feces",
+    "label": "f\u00e6ces;calpro",
+    "gruppe": "Ford\u00f8yelsessykdommer",
+    "undergruppe": "Ford\u00f8yelsessykdommer",
+    "beskrivelse": "",
+    "pris": 241
+  },
+  {
+    "id": "489",
+    "navn": "Vitamin D",
+    "label": "25-oh-vit d;kalsidiol",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 135
+  },
+  {
+    "id": "491",
+    "navn": "Vitamin A",
+    "label": "retinol",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 135
+  },
+  {
+    "id": "494",
+    "navn": "Vitamin E",
+    "label": "alfa-tocopherol",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 135
+  },
+  {
+    "id": "497",
+    "navn": "Vitamin K",
+    "label": "fyllokinon",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 150
+  },
+  {
+    "id": "501",
+    "navn": "\u00d8nsker ikke videre utredning",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Paneltester - screening",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "506",
+    "navn": "Treponema pallidum (syfilis)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "512",
+    "navn": "Syfilis, antistoffer",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 135
+  },
+  {
+    "id": "517",
+    "navn": "Inhalasjonspanel 1 sesong",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Paneltester - screening",
+    "beskrivelse": "",
+    "pris": 250
+  },
+  {
+    "id": "518",
+    "navn": "Inhalasjonspanel 2 hel\u00e5rs",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Paneltester - screening",
+    "beskrivelse": "",
+    "pris": 250
+  },
+  {
+    "id": "519",
+    "navn": "Matvarepanel",
+    "label": "allergi",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 250
+  },
+  {
+    "id": "520",
+    "navn": "Bj\u00f8rk t3",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Tr\u00e6r",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "521",
+    "navn": "Timotei g6",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Gress",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "522",
+    "navn": "Burot w6",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Urter",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "523",
+    "navn": "Cladosporium herbarum m2",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Muggsopper",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "524",
+    "navn": "Alternaria tenuis m6",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Muggsopper",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "525",
+    "navn": "Derm.pteronyssinus d1",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Midd",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "526",
+    "navn": "Derm.farinae d2",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Midd",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "527",
+    "navn": "Bigift i1",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Insekter",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "528",
+    "navn": "Vepsegift i3",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Insekter",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "529",
+    "navn": "Katt, epitel e1",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "530",
+    "navn": "Hund, flass e5",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "531",
+    "navn": "Hest, flass e3",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "532",
+    "navn": "Marsvin, epitel e6",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "533",
+    "navn": "Hamster, epitel e84",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "534",
+    "navn": "Kanin, epitel e82",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "535",
+    "navn": "Mus, epitel e71",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "536",
+    "navn": "Rotte, epitel e73",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "537",
+    "navn": "Eggehvite f1",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "538",
+    "navn": "Kumelk f2",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "539",
+    "navn": "Torsk f3",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "540",
+    "navn": "Ert f12",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "541",
+    "navn": "Pean\u00f8tt f13",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "542",
+    "navn": "Soyab\u00f8nne f14",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "543",
+    "navn": "Reke f24",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "546",
+    "navn": "Or t2",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Tr\u00e6r",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "547",
+    "navn": "Hassel t4",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Tr\u00e6r",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "548",
+    "navn": "Kreatinin i urin",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Analyse i urin",
+    "beskrivelse": "",
+    "pris": 21
+  },
+  {
+    "id": "554",
+    "navn": "Ku, flass e4",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Dyr",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "555",
+    "navn": "Hvete f4",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "556",
+    "navn": "Latex k82",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Yrkesallergener",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "557",
+    "navn": "Benzylpenicillin c1",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Penicilliner",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "558",
+    "navn": "Fenoksymetylpenicillin c2",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Penicilliner",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "559",
+    "navn": "Penicillium notatum m1",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Muggsopper",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "561",
+    "navn": "Aspergillus fumigatuse m3",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Muggsopper",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "562",
+    "navn": "Acarus siro d70",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Midd",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "563",
+    "navn": "Lepidoglyphus destructor d71",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Midd",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "564",
+    "navn": "Tyrophagus putrescentiae d72",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Midd",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "565",
+    "navn": "Alfa-amylase k87",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Yrkesallergener",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "576",
+    "navn": "Hasseln\u00f8tt f17",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "577",
+    "navn": "Paran\u00f8tt f18",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "579",
+    "navn": "Krabbe f23",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "585",
+    "navn": "Laks f41",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "597",
+    "navn": "Kiwi f84",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "630",
+    "navn": "LH",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "631",
+    "navn": "FSH",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "632",
+    "navn": "Testosteron",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "633",
+    "navn": "SHBG",
+    "label": "sexhormonbindende",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 35
+  },
+  {
+    "id": "634",
+    "navn": "hCG",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 38
+  },
+  {
+    "id": "649",
+    "navn": "Ampicillin c5",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Penicilliner",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "650",
+    "navn": "Amfetaminer\/Ecstasy i urin",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 100
+  },
+  {
+    "id": "651",
+    "navn": "Opiater i urin",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 60
+  },
+  {
+    "id": "652",
+    "navn": "Benzodiazepiner i urin",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 60
+  },
+  {
+    "id": "654",
+    "navn": "Cannabinoider i urin",
+    "label": "hasj;cannabis",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 60
+  },
+  {
+    "id": "655",
+    "navn": "Amoksicillin c6",
+    "label": "",
+    "gruppe": "Allergi",
+    "undergruppe": "Penicilliner",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "656",
+    "navn": "Kokain i urin",
+    "label": "coca",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 60
+  },
+  {
+    "id": "657",
+    "navn": "Etanol",
+    "label": "alkohol;etylalkohol",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Alkoholmark\u00f8r, serum",
+    "beskrivelse": "",
+    "pris": 45
+  },
+  {
+    "id": "658",
+    "navn": "CDT",
+    "label": "carbohydrate deficient transferrin;karbohydratfattig transferrin",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 199
+  },
+  {
+    "id": "659",
+    "navn": "Metadonmetabolitt (EDDP) i urin",
+    "label": "eddp;2-etylidin-1;5-dimetyl-3;3-difenylpyrrolidin",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 47
+  },
+  {
+    "id": "666",
+    "navn": "Etanol i urin",
+    "label": "alkohol;etylalkohol",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Alkoholmark\u00f8rer, urin",
+    "beskrivelse": "",
+    "pris": 76
+  },
+  {
+    "id": "668",
+    "navn": "Metadon i urin",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 47
+  },
+  {
+    "id": "684",
+    "navn": "Chlam.trach, rektum",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 538
+  },
+  {
+    "id": "686",
+    "navn": "Etylglukuronid i urin",
+    "label": "etg",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Alkoholmark\u00f8rer, urin",
+    "beskrivelse": "",
+    "pris": 122
+  },
+  {
+    "id": "687",
+    "navn": "Neiss.gonorr(GC), hals",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 329
+  },
+  {
+    "id": "695",
+    "navn": "Neiss.gonorr(GC), urin",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 329
+  },
+  {
+    "id": "696",
+    "navn": "Neiss.gonorr(GC), rektum",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 329
+  },
+  {
+    "id": "700",
+    "navn": "Hepatitt B",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 185
+  },
+  {
+    "id": "702",
+    "navn": "Hepatitt C",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 215
+  },
+  {
+    "id": "705",
+    "navn": "Hepatitt B vaksinekontroll",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 98
+  },
+  {
+    "id": "706",
+    "navn": "Hepatitt A",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 220
+  },
+  {
+    "id": "707",
+    "navn": "H.pylori, IgG",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 80
+  },
+  {
+    "id": "727",
+    "navn": "Hepatitt A vaksinekontroll",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 130
+  },
+  {
+    "id": "733",
+    "navn": "HIV",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 96
+  },
+  {
+    "id": "779",
+    "navn": "Buprenorfin (Subutex, Temgesic) i urin",
+    "label": "subutex;temgesic;suboxone",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 47
+  },
+  {
+    "id": "781",
+    "navn": "Metadon",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Andre legemidler",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "782",
+    "navn": "Buprenorfin i serum (Subutex, Temgesic)",
+    "label": "subutex;temgesic;suboxone",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Andre legemidler",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "795",
+    "navn": "Rus-panel i urin",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 450
+  },
+  {
+    "id": "798",
+    "navn": "Spesifikk analyse ved positiv screening",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "815",
+    "navn": "Chlam.trach, urin",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "818",
+    "navn": "Mycopl.genit, urin",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 375
+  },
+  {
+    "id": "823",
+    "navn": "DQ2\/DQ8 HLA-typing (C\u00f8liaki)",
+    "label": "",
+    "gruppe": "Ford\u00f8yelsessykdommer",
+    "undergruppe": "Ford\u00f8yelsessykdommer",
+    "beskrivelse": "",
+    "pris": 1481
+  },
+  {
+    "id": "830",
+    "navn": "CYP-screening",
+    "label": "genetisk analyse av cyp2c9;cyp2c19;cyp2d6",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Farmakogenetiske analyser, EDTA-blod",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "A41",
+    "navn": "N\u00f8ttepanel 1",
+    "label": "allergi",
+    "gruppe": "Allergi",
+    "undergruppe": "Paneltester - screening",
+    "beskrivelse": "",
+    "pris": 250
+  },
+  {
+    "id": "A42",
+    "navn": "N\u00f8ttepanel 2",
+    "label": "allergi",
+    "gruppe": "Allergi",
+    "undergruppe": "Mat",
+    "beskrivelse": "",
+    "pris": 250
+  },
+  {
+    "id": "A46",
+    "navn": "NT-proBNP",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 290
+  },
+  {
+    "id": "A50",
+    "navn": "CEA",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 30
+  },
+  {
+    "id": "A51",
+    "navn": "CA125",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hormoner, tumormark\u00f8rer og andre",
+    "beskrivelse": "",
+    "pris": 50
+  },
+  {
+    "id": "A58",
+    "navn": "Fosfatidyletanol PEth",
+    "label": "fosfatidyletanol;peth",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Alkoholmark\u00f8r, EDTA-blod",
+    "beskrivelse": "",
+    "pris": 199
+  },
+  {
+    "id": "A78",
+    "navn": "HbA1c",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Hematologi og HbA1c",
+    "beskrivelse": "",
+    "pris": 60
+  },
+  {
+    "id": "A80",
+    "navn": "Hemoglobinopati utredning",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "P\u00e5 spesielle indikasjoner",
+    "beskrivelse": "",
+    "pris": 2286
+  },
+  {
+    "id": "A89",
+    "navn": "HLA-B27",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "P\u00e5 spesielle indikasjoner",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "A96",
+    "navn": "Triglyserider, ikke fastende",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 20
+  },
+  {
+    "id": "A97",
+    "navn": "TSI",
+    "label": "tras",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Andre",
+    "beskrivelse": "",
+    "pris": 162
+  },
+  {
+    "id": "A98",
+    "navn": "Cystatin C\/Cystatin C eGFR",
+    "label": "",
+    "gruppe": "KlinKjem",
+    "undergruppe": "Klinisk kjemi, lipider, proteiner",
+    "beskrivelse": "",
+    "pris": 50
+  },
+  {
+    "id": "D01",
+    "navn": "Paliperidon (Xeplion)",
+    "label": "xeplion",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D02",
+    "navn": "Asenapin (Sycrest)",
+    "label": "sycrest",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D03",
+    "navn": "Eslikarbazepin (Zebinix)",
+    "label": "zebinix",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D08",
+    "navn": "Karbamazepin (Tegretol,Trimonil)",
+    "label": "tegretol;trimonil",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antiepileptika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D11",
+    "navn": "Vortioksetin (Brintellix)",
+    "label": "brintellix",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antidepressiva",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D12",
+    "navn": "Lurasidon (Latuda)",
+    "label": "latuda",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Antipsykotika",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D13",
+    "navn": "Alimemazin (Vallergan)",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Andre legemidler",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D14",
+    "navn": "Amfetamin(Attentin,Dexamfetamine,Elvanse",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Andre legemidler",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D50",
+    "navn": "SSRI-panel",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Farmakogenetiske analyser, EDTA-blod",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "D51",
+    "navn": "Statin-panel",
+    "label": "",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Farmakogenetiske analyser, EDTA-blod",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "N31",
+    "navn": "Chlamydia trachomatis, underliv",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 329
+  },
+  {
+    "id": "N36",
+    "navn": "Trichomonas vag, underliv",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 329
+  },
+  {
+    "id": "N40",
+    "navn": "Trichomonas vag, urin (PCR)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 329
+  },
+  {
+    "id": "N47",
+    "navn": "Bakteriepanel (feces) (PCR)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "Campylobacter, Salmonella, Shigella, Yersinia, EHEC, EPEC, EIEC",
+    "pris": 0
+  },
+  {
+    "id": "N48",
+    "navn": "Clostridium difficile\/toksin (PCR)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "N49",
+    "navn": "Viruspanel (feces) (PCR)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "Adenovirus, Astrovirus, Norovirus, Rotavirus",
+    "pris": 0
+  },
+  {
+    "id": "P40",
+    "navn": "Varicella zoster virus (VZV), s\u00e5rsekret",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 494
+  },
+  {
+    "id": "P45",
+    "navn": "Protozoer (PCR)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "Giardia lamblia, Cryptosporidium spp og Entamoeba histolytica",
+    "pris": 0
+  },
+  {
+    "id": "P60",
+    "navn": "Luftveisvirus",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "Parainfluensavirus, RS-virus, humant metapneumovirus, influensavirus",
+    "pris": 987
+  },
+  {
+    "id": "P90",
+    "navn": "Dermatofytter, hudavskrap",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "P91",
+    "navn": "Dermatofytter, h\u00e5r",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "P92",
+    "navn": "Dermatofytter, negl",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Molekyl\u00e6rbiologi (PCR)",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "R02",
+    "navn": "Ritalinsyre i urin",
+    "label": "metylfenidat;concerta;equasym;ritalin",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 175
+  },
+  {
+    "id": "R04",
+    "navn": "Pregabalin i urin",
+    "label": "pregabalin;lyrica",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 175
+  },
+  {
+    "id": "R16",
+    "navn": "Tramadol i urin",
+    "label": "nobligan;tramagetic;trampalgin",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 175
+  },
+  {
+    "id": "R22",
+    "navn": "Oksykodon i urin",
+    "label": "oxycodone;targiniq;oxynorm;oxycontin",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 60
+  },
+  {
+    "id": "R80",
+    "navn": "Zopiklon\/Zolpidem",
+    "label": "zopitin;zopiklon;imovane",
+    "gruppe": "Legemidler og Rusmidler",
+    "undergruppe": "Rusmiddelanalyser, urin",
+    "beskrivelse": "",
+    "pris": 175
+  },
+  {
+    "id": "S02",
+    "navn": "M.pneumoniae, IgM\/IgG",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "Anbefales ved sykdom over 2 uker",
+    "pris": 508
+  },
+  {
+    "id": "S21",
+    "navn": "Borrelia, IgM\/IgG",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Infeksjonsserologi",
+    "beskrivelse": "",
+    "pris": 250
+  },
+  {
+    "id": "U01",
+    "navn": "Vanlig bakteriologisk us med evt resistensbestemmelse",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U02",
+    "navn": "Anaerob dyrkning",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U04",
+    "navn": "Parasitter",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U06",
+    "navn": "Gj\u00e6rsopp",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U07",
+    "navn": "Gonokokker",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "Dyrkning etter PCR-p\u00e5vist gonokokk\/-behandling",
+    "pris": 0
+  },
+  {
+    "id": "U08",
+    "navn": "Screening MRSA",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U09",
+    "navn": "Dermatofytter (PCR)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U11",
+    "navn": "Dermatofytter, dyrkning",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U17",
+    "navn": "Barnemark",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U18",
+    "navn": "Protozoer (mikroskopi)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U19",
+    "navn": "Innvollsormer (mikroskopi)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U20",
+    "navn": "Salmonella",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U21",
+    "navn": "Shigella",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U22",
+    "navn": "Campylobackter",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U23",
+    "navn": "Yersinia",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U24",
+    "navn": "EHEC",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U33",
+    "navn": "Muggsopp",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U34",
+    "navn": "EIEC",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U37",
+    "navn": "Schistosoma",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U40",
+    "navn": "MRSA us fra hals",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U41",
+    "navn": "MRSA us fra nese",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U42",
+    "navn": "MRSA us fra perineum",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U43",
+    "navn": "MRSA us fra eksem",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U44",
+    "navn": "MRSA us fra arr",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U45",
+    "navn": "MRSA us fra s\u00e5r",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U46",
+    "navn": "MRSA us fra annen us 1",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U47",
+    "navn": "MRSA us fra annen us 2",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U48",
+    "navn": "MRSA us fra annen us 3",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U49",
+    "navn": "MRSA us fra annen us 4",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U57",
+    "navn": "Ktr pr\u00f8ve, ukjent bakterie",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U59",
+    "navn": "Ktr pr\u00f8ve, kjent bakterie",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U60",
+    "navn": "VRE-screening",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U61",
+    "navn": "ESBL-screening",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "Dyrkning for resistensbestemmelse",
+    "pris": 0
+  },
+  {
+    "id": "U66",
+    "navn": "GC-dyrkning",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "Dyrkning ved klinisk mistanke om gonokokksykdom",
+    "pris": 0
+  },
+  {
+    "id": "U67",
+    "navn": "Behandlingssvikt",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "U68",
+    "navn": "Tidligere pos GC",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "Klinisk sterk mistanke om gonokokksykdom",
+    "pris": 0
+  },
+  {
+    "id": "UA1",
+    "navn": "Abscess",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UA2",
+    "navn": "Arthritt",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UA3",
+    "navn": "Bakteriell vaginose, utflod",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UA4",
+    "navn": "Barnemark",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UA5",
+    "navn": "Bursitt",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UA8",
+    "navn": "Halsinfeksjon\/Tonsiller",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UA9",
+    "navn": "Markinfeksjon",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UB1",
+    "navn": "Munnhulesopp",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UB2",
+    "navn": "Otitis eksterna",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UB3",
+    "navn": "Otitis media",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UB5",
+    "navn": "Pneumoni, ekspektorat",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UB6",
+    "navn": "Pneumoni, nasofarynx",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UC1",
+    "navn": "Seksuelt overf\u00f8rebare sykdommer (SOS)",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UC5",
+    "navn": "Sinusitt",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UC7",
+    "navn": "Soppinfeksjon",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UD1",
+    "navn": "S\u00e5rinfeksjon",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UD2",
+    "navn": "Urin, midtstr\u00f8m",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UD3",
+    "navn": "Urin, permanent kateter",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UD4",
+    "navn": "Urin, engangskateter",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UD5",
+    "navn": "Urin, bl\u00e6repunksjon",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UD6",
+    "navn": "Urin, posepr\u00f8ve",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UD7",
+    "navn": "Vulvitt",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  },
+  {
+    "id": "UD8",
+    "navn": "\u00d8yeinfeksjon",
+    "label": "",
+    "gruppe": "Mikro",
+    "undergruppe": "Dyrkningspr\u00f8ver",
+    "beskrivelse": "",
+    "pris": 0
+  }
+]

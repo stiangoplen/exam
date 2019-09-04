@@ -1,28 +1,25 @@
-.outer-container {
-  width: 900px;
-  margin: auto;
-}
-
 .header {
   font-size: 30px;
+  text-align: center;
   padding-bottom: 20px;
-}
 
-.small-header {
-  font-size: 20px;
-  font-weight: 500;
-  padding: 30px 0 15px 0;
+  &.right {
+    padding-bottom: 110px;
+  }
 }
 
 .inner-container {
   height: 400px;
   overflow: scroll;
   border: 1px solid lightgray;
-  margin-bottom: 20px;
 }
 
-.patient-button {
-  margin-top: 40px;
+.button-group {
+  padding-top: 20px;
+
+  ion-button {
+    padding: 0 10px 0 10px;
+  }
 }
 
 .warning {
@@ -32,4 +29,3 @@
   font-weight: 500;
   color: lightgray;
 }
-

@@ -1,14 +1,40 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
 <ion-content>
-  <div class="ion-padding">
-    The world is your oyster.
-    <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs/">docs</a> will be your guide.</p>
+  <div class="outer-container">
+    <ion-grid padding text-center>
+      <ion-row>
+        <ion-col text-center size="6">
+          <div class="header">Pasient</div>
+          <div class="small-header">Fornavn</div>
+          <div>
+            {{ patient.firstname ? patient.firstname : "Legg til fornavn" }} 
+          </div>
+          <div class="small-header">Etternavn</div>
+          <div>
+            {{ patient.lastname ? patient.lastname : "Legg til etternavn" }}
+          </div>
+          <ion-button class="patient-button" (click)="onAddPatient()">
+            {{ patient.firstname || patient.lastname ? "Rediger" : "Legg til" }}
+          </ion-button>
+        </ion-col>
+        <ion-col size="6">
+          <div class="header">Analyser ({{ selectedSamples.length }})</div>
+          <ion-list class="inner-container">
+            <div class="warning" *ngIf="!selectedSamples.length">Ingen analyser valgt</div>
+            <ion-item *ngFor="let sample of selectedSamples" >
+              <div>
+                {{ sample.navn }}
+              </div>
+              <ion-button slot="end" color="dark" (click)="removeSample(sample.id)">
+                <ion-icon slot="icon-only" name="trash"></ion-icon>
+              </ion-button>
+            </ion-item>
+          </ion-list>
+          <ion-button (click)="onAddSamples()">Legg til</ion-button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+    <div text-center style="margin-top: 100px;">
+      <ion-button size="large" (click)="sendOrder()" [disabled]="!patient.firstname || !patient.lastname || !selectedSamples.length">Send bestilling</ion-button>
+    </div>
   </div>
 </ion-content>

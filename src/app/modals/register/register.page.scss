@@ -1,0 +1,16 @@
+.header {
+  font-size: 25px;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 50x;
+}
+
+.item {
+  flex-grow: 1;
+}
