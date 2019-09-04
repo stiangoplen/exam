@@ -112,6 +112,9 @@ export class HomePage {
           handler: () => {
             let index = this.selectedSamples.findIndex(el => el.id === id)
             this.selectedSamples.splice(index, 1)
+
+            let title = this.titleService.getTitle().split(" - ")[0]
+            this.titleService.setTitle(`${title} - (${this.selectedSamples.length})`)
           }
         }
       ]
