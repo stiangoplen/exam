@@ -20,3 +20,4 @@ Med mere tid ville jeg:
 1. Jobbet med UI. Dette rakk jeg kun å gjøre meget simpelt. 
 1. Laget testen som det blir bedt om i oppgaven.
 1. Laget en oversikt der legen kan se hvilke pasienter han har sendt inn og med hvilke analyser.
+1. Laget en startside der brukeren kan velge om han skal gjøre blodanalyse eller andre ting. Nå starter den direkte på blodanalyse.
